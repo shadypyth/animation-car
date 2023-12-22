@@ -1,0 +1,162 @@
+img {
+    display: block;
+}
+
+.car1 {
+    animation-name: car1;
+    animation-duration: 3s;
+    position: absolute;
+    left: 0;
+    animation-fill-mode: forwards;
+    
+}
+
+@keyframes car1 {
+    from {
+        left: 0;
+    }
+    to {
+        left: 1050px;
+    }
+}
+
+.car2 {
+    animation-name: car2;
+    animation-duration: 3s;
+    position: absolute;
+    right: 0;
+    top: 100px;
+    animation-delay: 3s;
+    animation-fill-mode: forwards;
+    
+}
+
+@keyframes car2 {
+    from {
+        right: 0;
+    }
+    to {
+        right: 1050px;
+    }
+}
+
+.car3 {
+    animation-name: car3;
+    animation-duration: 3s;
+    position: absolute;
+    left: 0;
+    top: 200px;
+    animation-delay: 6s;
+    animation-fill-mode: forwards;
+    
+}
+
+@keyframes car3 {
+    from {
+        left: 0;
+    }
+    to {
+        left: 1050px;
+    }
+}
+
+.car4 {
+    animation-name: car4;
+    animation-duration: 3s;
+    position: absolute;
+    right: 0;
+    top: 300px;
+    animation-delay: 9s;
+    animation-fill-mode: forwards;
+    
+}
+
+@keyframes car4 {
+    from {
+        right: 0;
+    }
+    to {
+        right: 1050px;
+    }
+}
+
+.car5 {
+    animation-name: car5;
+    animation-duration: 3s;
+    position: absolute;
+    left: 0;
+    top: 400px;
+    animation-delay: 12s;
+    animation-fill-mode: forwards;
+   
+}
+
+@keyframes car5 {
+    from {
+        left: 0;
+    }
+    to {
+        left: 1050px;
+    }
+}
+
+.car6 {
+    animation-name: car6;
+    animation-duration: 3s;
+    position: absolute;
+    right: 0;
+    top: 500px;
+    animation-delay: 15s;
+    animation-fill-mode: forwards;
+    
+}
+
+@keyframes car6 {
+    from {
+        right: 0;
+    }
+    to {
+        right: 1050px;
+    }
+}
+
+
+.car7 {
+    animation-name: car7;
+    animation-duration: 3s;
+    position: absolute;
+    left: 0;
+    top: 600px;
+    animation-delay: 18s;
+    animation-fill-mode: forwards;
+    
+}
+
+@keyframes car7 {
+    from {
+        left: 0;
+    }
+    to {
+        left: 1050px;
+    }
+}
+
+.car8 {
+    animation-name: car8;
+    animation-duration: 3s;
+    position: absolute;
+    right: 0;
+    top: 700px;
+    animation-delay: 21s;
+    animation-fill-mode: forwards;
+    
+}
+
+@keyframes car8 {
+    from {
+        right: 0;
+    }
+    to {
+        right: 1050px;
+    }
+}
